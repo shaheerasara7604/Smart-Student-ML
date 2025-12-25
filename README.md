@@ -129,25 +129,6 @@ The models were chosen for interpretability and reliability, making them suitabl
 👩‍💻 Author
 
 Sara
-Aspiring Machine Learning Engineer / Data Science Enthusiast
+Aspiring  Data Science Enthusiast
 
-⸻
 
-⭐ If you find this project useful, feel free to star the repository!
-
----
-
-### ✅ Why this README is strong
-- Clear problem statement  
-- Honest modeling decisions  
-- Interview-safe explanations  
-- Professional structure
-- No overclaiming  
-
-If you want, I can next:
-- Rewrite this README to sound **even more recruiter-oriented**
-- Add **screenshots section**
-- Prepare a **project explanation script for interviews**
-- Optimize this for **LinkedIn + resume**
-
-Just tell me what you want next.
